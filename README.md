@@ -5,6 +5,7 @@
 
 #### Игра: "Проверка на чётность"
 *Суть: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное:*
+[![asciicast](https://asciinema.org/a/9WUF0v9Ds1tgYU5tIXlRSh0qH.svg)](https://asciinema.org/a/9WUF0v9Ds1tgYU5tIXlRSh0qH)
 
 
 
