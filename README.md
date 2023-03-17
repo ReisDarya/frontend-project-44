@@ -28,3 +28,5 @@
 
 #### Игра "Простое ли число?"
 *Суть: показываем игроку случайное число. И ему нужно ответить yes, если число простое, или no — если нет:*
+
+[![asciicast](https://asciinema.org/a/Sa7LdXgRZ5LbKBl9l7k5fKPTW.svg)](https://asciinema.org/a/Sa7LdXgRZ5LbKBl9l7k5fKPTW)
