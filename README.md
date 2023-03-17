@@ -11,6 +11,7 @@
 
 #### Игра: "Калькулятор"
 *Суть: пользователю показывается случайное математическое выражение, например 15 + 15, которое нужно вычислить и записать правильный ответ.*
+[![asciicast](https://asciinema.org/a/gFOVFVVsMoLIIC1aaWthvp0cK.svg)](https://asciinema.org/a/gFOVFVVsMoLIIC1aaWthvp0cK)
 
 
 
