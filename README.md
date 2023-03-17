@@ -17,6 +17,7 @@
 
 #### Игра "НОД"
 *Суть: пользователю показывается два случайных числа, например, 35 40. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.*
+[![asciicast](https://asciinema.org/a/Wa5q7c2cRB96szepGd1ELr2xd.svg)](https://asciinema.org/a/Wa5q7c2cRB96szepGd1ELr2xd)
 
 
 
