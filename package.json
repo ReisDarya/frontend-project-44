@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/ReisDarya/frontend-project-44.git"
   },
-  "author": "olesiavovk",
+  "author": "ReisDarya",
   "license": "ISC",
   "homepage": "http://git@github.com:ReisDarya/frontend-project-44#readme",
   "type": "module",
@@ -23,12 +23,21 @@
     "brain-prime": "bin/brain-prime.js"
   },
   "dependencies": {
-    "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.25.4",
     "readline-sync": "^1.4.10"
   },
   "bugs": {
     "url": "https://github.com/ReisDarya/frontend-project-44/issues"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.55.0",
+    "@typescript-eslint/parser": "^5.55.0",
+    "eslint": "^8.36.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.32.2",
+    "typescript": "^5.0.2"
   }
 }
