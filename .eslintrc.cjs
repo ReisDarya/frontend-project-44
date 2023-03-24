@@ -4,7 +4,7 @@ module.exports = {
     es2021: true
   },
   extends: [
-    'plugin:react/recommended',
+    'plugin:vue/vue3-essential',
     'standard-with-typescript'
   ],
   overrides: [
@@ -14,7 +14,7 @@ module.exports = {
     sourceType: 'module'
   },
   plugins: [
-    'react'
+    'vue'
   ],
   rules: {
   }
