@@ -1,24 +1,24 @@
-import baseGame from '../index.js'
-import getRandomInt from '../randomizer.js'
+import baseGame from '../index.js';
+import getRandomInt from '../randomizer.js';
 
-const gameTask = 'Find the greatest common divisor of given numbers'
+const gameTask = 'Find the greatest common divisor of given numbers';
 
 const getGCD = (a, b) => {
   if (b > a) {
-    return getGCD(b, a)
+    return getGCD(b, a);
   }
   if (!b) {
-    return a
+    return a;
   }
-  return getGCD(b, a % b)
-}
+  return getGCD(b, a % b);
+};
 
 const theGame = () => {
-  const firstNum = getRandomInt(1, 10)
-  const secondNum = getRandomInt(1, 10)
-  const question = `${firstNum} ${secondNum}`
-  const rightAnswer = String(getGCD(firstNum, secondNum))
-  return [question, rightAnswer]
-}
+  const firstNum = getRandomInt(1, 10);
+  const secondNum = getRandomInt(1, 10);
+  const question = `${firstNum} ${secondNum}`;
+  const rightAnswer = String(getGCD(firstNum, secondNum));
+  return [question, rightAnswer];
+};
 
-export default () => baseGame(gameTask, theGame)
+export default () => baseGame(gameTask, theGame);
